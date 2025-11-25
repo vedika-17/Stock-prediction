@@ -6,7 +6,7 @@ All cleaned datasets, prediction outputs, evaluation metrics, and graphs are aut
 
 ---
 
-## ⭐ Project Features
+## Project Features
 
 ### **1. Complete Data Preprocessing**
 - Reads S&P 500 historical price data  
@@ -87,7 +87,7 @@ All stored inside the `outputs/` folder.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python  
 - pandas  
 - NumPy  
@@ -98,7 +98,7 @@ All stored inside the `outputs/` folder.
 
 ---
 
-## 🔧 Setup Requirements
+## Setup Requirements
 
 ### **1. Install Dependencies**
 ```bash
